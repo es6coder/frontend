@@ -209,3 +209,46 @@ html {
   z-index: 907;
   top: 2rem;
 }
+
+.apply-for {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.para-letter {
+  font-size: 1.6rem;
+}
+
+.btn-inside-letter {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+}
+
+.btn-letter {
+  padding: 1rem 2rem;
+  min-width: 10rem;
+  font-size: 1.6rem;
+  border-radius: 2rem;
+  cursor: pointer;
+  border: none;
+  color: #fff;
+}
+
+.approv-letter {
+  background-color: #03c04a;
+  transition: all 0.2s;
+}
+
+.approv-letter:hover {
+  background-color: #029a3b;
+}
+
+.reject-letter {
+  background-color: #dc143c;
+  transition: all 0.2s;
+}
+
+.reject-letter:hover {
+  background-color: #b01030;
+}
