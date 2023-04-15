@@ -125,3 +125,43 @@ html {
 .flex-column-dash {
   margin-top: 4rem;
 }
+
+.top-class{
+  display:flex;
+  justify-content: space-between;
+  width:120rem;
+  margin:0 auto;
+}
+
+.time-dash{
+  font-size:1.6rem;
+}
+
+.happy-container{
+  display:flex;
+  flex-direction:column;
+  margin-top:5rem;
+}
+
+.happy-gnda{
+  display:flex;
+  justify-content: center;
+
+}
+
+.amount-dash{
+  font-weight:700;
+}
+
+.happy-bread{
+  justify-self:center;
+  align-self: center;
+}
+
+.dash-texting{
+  font-size:1.6rem;
+}
+
+.amount-dash{
+  font-weight:700;
+}
