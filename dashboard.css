@@ -73,7 +73,7 @@ html {
 .dashboard-box {
   width: 120rem;
   margin: 0 auto;
-  margin-top: 4rem;
+  margin-bottom: 2rem;
   padding: 2rem;
   box-shadow: 0 0 2rem rgba(0, 0, 0, 0.1);
   border-radius: 2rem;
@@ -82,7 +82,7 @@ html {
 .contain-box {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 1rem;
+  margin-bottom: 1rem !important;
 }
 
 .contain-dabba {
@@ -120,4 +120,8 @@ html {
 
 .btn-dash:hover {
   background-color: #444;
+}
+
+.flex-column-dash {
+  margin-top: 4rem;
 }
