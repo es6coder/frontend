@@ -3,7 +3,7 @@
     padding: 0;
     font-family: "poppins";
     color: #333;
-  }
+}
   
   html {
     font-size: 62.5%;
@@ -113,13 +113,13 @@
   }
   
   .para-more {
-    width: 85%;
+    width: 95%;
   }
   
   .btn-dash {
-    padding: 1rem 2.4rem;
+    padding: 1rem 2rem;
     color: #fff;
-    background-color: #03c04a;
+    background-color: #333;
     border-radius: 2rem;
     cursor: pointer;
     transition: all 0.2s;
@@ -128,7 +128,7 @@
   }
   
   .btn-dash:hover {
-    background-color: #029a3b;
+    background-color: #444;
   }
   
   .flex-column-dash {
