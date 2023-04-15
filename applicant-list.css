@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "poppins";
+  color: #333;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.applicant-lists {
+  width: 80rem;
+  margin: 0 auto;
+}
+
+.applicant-head {
+  font-size: 2.4rem;
+  text-align: center;
+}
+
+.listed-applicamts {
+  display: flex;
+  flex-direction: column;
+  gap: 1.4rem;
+}
+
+.lists-app {
+  padding: 2rem;
+  box-shadow: 0 0 2rem rgba(0, 0, 0, 0.1);
+}
